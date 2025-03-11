@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OHvkh7w9pRM=",
+  "success": true,
+  "projectFilePath": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Lab7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jenia\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.7\\guna.ui2.winforms.2.0.4.7.nupkg.sha512",
+    "C:\\Users\\jenia\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\jenia\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|d:\\ms visual studio\\ceiti visual prog\\lab7\\lab7\\forms\\matrixform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|solutionrelative:forms\\matrixform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\forms\\arrayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|solutionrelative:forms\\arrayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|d:\\ms visual studio\\ceiti visual prog\\lab7\\lab7\\validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|solutionrelative:validator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|d:\\ms visual studio\\ceiti visual prog\\lab7\\lab7\\forms\\matrixform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|solutionrelative:forms\\matrixform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|d:\\ms visual studio\\ceiti visual prog\\lab7\\lab7\\forms\\arrayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|solutionrelative:forms\\arrayform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|d:\\ms visual studio\\ceiti visual prog\\lab7\\lab7\\calculations\\matrixcalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|solutionrelative:calculations\\matrixcalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|d:\\ms visual studio\\ceiti visual prog\\lab7\\lab7\\calculations\\arraycalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|solutionrelative:calculations\\arraycalculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|d:\\ms visual studio\\ceiti visual prog\\lab7\\lab7\\forms\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|solutionrelative:forms\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\forms\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22D99938-7C1F-4B95-B3B3-0A9C98752B2C}|Lab7.csproj|solutionrelative:forms\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\MS Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ArrayCalculations.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Calculations\\ArrayCalculations.cs",
+              "RelativeDocumentMoniker": "Calculations\\ArrayCalculations.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Calculations\\ArrayCalculations.cs",
+              "RelativeToolTip": "Calculations\\ArrayCalculations.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwGYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:24:31.268Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MatrixCalculations.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Calculations\\MatrixCalculations.cs",
+              "RelativeDocumentMoniker": "Calculations\\MatrixCalculations.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Calculations\\MatrixCalculations.cs",
+              "RelativeToolTip": "Calculations\\MatrixCalculations.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAIwMMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T09:40:14.207Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Forms\\StartForm.cs",
+              "RelativeDocumentMoniker": "Forms\\StartForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Forms\\StartForm.cs",
+              "RelativeToolTip": "Forms\\StartForm.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T21:38:00.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "D:\\MS Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "D:\\MS Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAEcNAAAAAAAAAAAwwE8NAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-10T21:20:37.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Validator.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Validator.cs",
+              "RelativeDocumentMoniker": "Validator.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Validator.cs",
+              "RelativeToolTip": "Validator.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAkwIoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T19:43:01.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MatrixForm.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Forms\\MatrixForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MatrixForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Forms\\MatrixForm.cs",
+              "RelativeToolTip": "Forms\\MatrixForm.cs",
+              "ViewState": "AgIAADgBAAAAAAAAAAAswDwBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T07:17:00.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatrixForm.cs [Design]",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Forms\\MatrixForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MatrixForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Forms\\MatrixForm.cs [Design]",
+              "RelativeToolTip": "Forms\\MatrixForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-08T17:51:59.884Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ArrayForm.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Forms\\ArrayForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ArrayForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Forms\\ArrayForm.cs",
+              "RelativeToolTip": "Forms\\ArrayForm.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:16:18.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayForm.cs [Design]",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Forms\\ArrayForm.cs",
+              "RelativeDocumentMoniker": "Forms\\ArrayForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Forms\\ArrayForm.cs [Design]",
+              "RelativeToolTip": "Forms\\ArrayForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:12:52.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StartForm.cs [Design]",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Forms\\StartForm.cs",
+              "RelativeDocumentMoniker": "Forms\\StartForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab7\\Lab7\\Forms\\StartForm.cs [Design]",
+              "RelativeToolTip": "Forms\\StartForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:31:41.679Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
