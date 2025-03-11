@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{175F64E4-9B47-4BF3-B7F9-3F0C168FA151}|Lab3.csproj|d:\\ms visual studio\\ceiti visual prog\\lab3\\lab3\\registratiomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175F64E4-9B47-4BF3-B7F9-3F0C168FA151}|Lab3.csproj|solutionrelative:registratiomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175F64E4-9B47-4BF3-B7F9-3F0C168FA151}|Lab3.csproj|d:\\ms visual studio\\ceiti visual prog\\lab3\\lab3\\autorisationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175F64E4-9B47-4BF3-B7F9-3F0C168FA151}|Lab3.csproj|solutionrelative:autorisationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175F64E4-9B47-4BF3-B7F9-3F0C168FA151}|Lab3.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\registratiomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{175F64E4-9B47-4BF3-B7F9-3F0C168FA151}|Lab3.csproj|solutionrelative:registratiomform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175F64E4-9B47-4BF3-B7F9-3F0C168FA151}|Lab3.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\autorisationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{175F64E4-9B47-4BF3-B7F9-3F0C168FA151}|Lab3.csproj|solutionrelative:autorisationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175F64E4-9B47-4BF3-B7F9-3F0C168FA151}|Lab3.csproj|d:\\ms visual studio\\ceiti visual prog\\lab3\\lab3\\successloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175F64E4-9B47-4BF3-B7F9-3F0C168FA151}|Lab3.csproj|solutionrelative:successloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175F64E4-9B47-4BF3-B7F9-3F0C168FA151}|Lab3.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\successloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{175F64E4-9B47-4BF3-B7F9-3F0C168FA151}|Lab3.csproj|solutionrelative:successloginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SuccessLoginForm.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\SuccessLoginForm.cs",
+              "RelativeDocumentMoniker": "SuccessLoginForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\SuccessLoginForm.cs",
+              "RelativeToolTip": "SuccessLoginForm.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:56:14.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuccessLoginForm.cs [Design]",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\SuccessLoginForm.cs",
+              "RelativeDocumentMoniker": "SuccessLoginForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\SuccessLoginForm.cs [Design]",
+              "RelativeToolTip": "SuccessLoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T19:55:52.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegistratiomForm.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\RegistratiomForm.cs",
+              "RelativeDocumentMoniker": "RegistratiomForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\RegistratiomForm.cs",
+              "RelativeToolTip": "RegistratiomForm.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAA5wEQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T07:08:46.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistratiomForm.cs [Design]",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\RegistratiomForm.cs",
+              "RelativeDocumentMoniker": "RegistratiomForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\RegistratiomForm.cs [Design]",
+              "RelativeToolTip": "RegistratiomForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:15:06.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AutorisationForm.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\AutorisationForm.cs",
+              "RelativeDocumentMoniker": "AutorisationForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\AutorisationForm.cs",
+              "RelativeToolTip": "AutorisationForm.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:16:00.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AutorisationForm.cs [Design]",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\AutorisationForm.cs",
+              "RelativeDocumentMoniker": "AutorisationForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab3\\Lab3\\AutorisationForm.cs [Design]",
+              "RelativeToolTip": "AutorisationForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T06:21:21.643Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
