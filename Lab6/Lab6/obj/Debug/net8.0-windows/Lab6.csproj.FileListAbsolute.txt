@@ -1,0 +1,16 @@
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\bin\Debug\net8.0-windows\Lab6.exe
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\bin\Debug\net8.0-windows\Lab6.deps.json
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\bin\Debug\net8.0-windows\Lab6.runtimeconfig.json
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\bin\Debug\net8.0-windows\Lab6.dll
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\bin\Debug\net8.0-windows\Lab6.pdb
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\obj\Debug\net8.0-windows\Lab6.MainForm.resources
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\obj\Debug\net8.0-windows\Lab6.csproj.GenerateResource.cache
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\obj\Debug\net8.0-windows\Lab6.GeneratedMSBuildEditorConfig.editorconfig
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\obj\Debug\net8.0-windows\Lab6.AssemblyInfoInputs.cache
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\obj\Debug\net8.0-windows\Lab6.AssemblyInfo.cs
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\obj\Debug\net8.0-windows\Lab6.csproj.CoreCompileInputs.cache
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\obj\Debug\net8.0-windows\Lab6.dll
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\obj\Debug\net8.0-windows\refint\Lab6.dll
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\obj\Debug\net8.0-windows\Lab6.pdb
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\obj\Debug\net8.0-windows\Lab6.genruntimeconfig.cache
+D:\MS Visual Studio\Ceiti Visual Prog\Lab6\Lab6\obj\Debug\net8.0-windows\ref\Lab6.dll
