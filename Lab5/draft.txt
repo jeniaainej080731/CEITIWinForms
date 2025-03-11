@@ -1,0 +1,67 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Microsoft.VisualBasic;
+
+namespace Lab5_netFramework
+{
+    public partial class MainForm : Form
+    {
+        public MainForm()
+        {
+            InitializeComponent();
+        }
+
+        private void MainForm_Load(object sender, EventArgs e)
+        {
+            SetTypes();
+        }
+
+        private void SetTypes()
+        {
+            FigureTypeComboBox.Items.AddRange(new string[] { "Flat", "Volumetric" });
+            FigureTypeComboBox.SelectedIndex = 0;
+        }
+
+        private void SetFigures()
+        {
+            if (FigureTypeComboBox.SelectedIndex == 0)
+            {
+                FigureComboBox.Items.Clear();
+                FigureComboBox.Items.AddRange(new string[] { "Circle", "Triangle", "Square", "Rectangle", "Parallelogram" });
+                FigureComboBox.SelectedIndex = 0;
+            }
+            else if (FigureTypeComboBox.SelectedIndex == 1)
+            {
+                FigureComboBox.Items.Clear();
+                FigureComboBox.Items.AddRange(new string[] { "Ball", "Pyramid", "Cude", "Parallelepiped", "Prism" });
+                FigureComboBox.SelectedIndex = 0;
+            }
+        }
+
+        private void FigureTypeComboBox_SelectedIndexChanged(object sender, EventArgs e)
+        {
+            SetFigures();
+        }
+
+        private void InputSizesButton_Click(object sender, EventArgs e)
+        {
+            string input = Interaction.InputBox("Message", "Title", "Default", -1, -1); 
+            // inputs for different figures
+            // ex. if selected square, needs input 1 size - length
+            // if selected triangle, needs input 3 sizes
+        }
+
+        private void DrawFigure()
+        {
+            // drawing selected figure on panel
+            // use pens, brushes, etc.
+        }
+    }
+}

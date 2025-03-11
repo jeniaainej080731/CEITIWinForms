@@ -1,0 +1,10 @@
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5.NET\bin\Debug\Lab5.NET.exe.config
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5.NET\bin\Debug\Lab5.NET.exe
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5.NET\bin\Debug\Lab5.NET.pdb
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5.NET\obj\Debug\Lab5.NET.csproj.AssemblyReference.cache
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5.NET\obj\Debug\Lab5.NET.MainForm.resources
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5.NET\obj\Debug\Lab5.NET.Properties.Resources.resources
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5.NET\obj\Debug\Lab5.NET.csproj.GenerateResource.cache
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5.NET\obj\Debug\Lab5.NET.csproj.CoreCompileInputs.cache
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5.NET\obj\Debug\Lab5.NET.exe
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5.NET\obj\Debug\Lab5.NET.pdb

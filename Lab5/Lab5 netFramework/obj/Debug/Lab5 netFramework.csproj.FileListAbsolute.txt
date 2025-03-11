@@ -1,0 +1,10 @@
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5 netFramework\bin\Debug\Lab5 netFramework.exe.config
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5 netFramework\bin\Debug\Lab5 netFramework.exe
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5 netFramework\bin\Debug\Lab5 netFramework.pdb
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5 netFramework\obj\Debug\Lab5 netFramework.csproj.AssemblyReference.cache
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5 netFramework\obj\Debug\Lab5_netFramework.MainForm.resources
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5 netFramework\obj\Debug\Lab5_netFramework.Properties.Resources.resources
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5 netFramework\obj\Debug\Lab5 netFramework.csproj.GenerateResource.cache
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5 netFramework\obj\Debug\Lab5 netFramework.csproj.CoreCompileInputs.cache
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5 netFramework\obj\Debug\Lab5 netFramework.exe
+D:\MS Visual Studio\Ceiti Visual Prog\Lab5\Lab5 netFramework\obj\Debug\Lab5 netFramework.pdb

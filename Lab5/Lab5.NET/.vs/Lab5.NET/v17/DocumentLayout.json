@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|solutionrelative:draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|d:\\ms visual studio\\ceiti visual prog\\lab5\\lab5.net\\validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|solutionrelative:validate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\calculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|solutionrelative:calculations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|solutionrelative:mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{35499E9B-263F-4064-A4C8-C0291ADA33D8}|Lab5.NET.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.Designer.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\MainForm.Designer.cs",
+              "RelativeDocumentMoniker": "MainForm.Designer.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\MainForm.Designer.cs",
+              "RelativeToolTip": "MainForm.Designer.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAAwJMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:24:10.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-24T18:23:33.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Validate.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\Validate.cs",
+              "RelativeDocumentMoniker": "Validate.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\Validate.cs",
+              "RelativeToolTip": "Validate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:02:02.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Draw.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\Draw.cs",
+              "RelativeDocumentMoniker": "Draw.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\Draw.cs",
+              "RelativeToolTip": "Draw.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:01:30.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculations.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\Calculations.cs",
+              "RelativeDocumentMoniker": "Calculations.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\Calculations.cs",
+              "RelativeToolTip": "Calculations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T18:00:56.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\MainForm.cs*",
+              "RelativeToolTip": "MainForm.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:57:22.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab5\\Lab5.NET\\MainForm.cs [Design]*",
+              "RelativeToolTip": "MainForm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T17:55:00.802Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
