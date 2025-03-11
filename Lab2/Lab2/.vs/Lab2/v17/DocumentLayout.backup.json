@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|d:\\ms visual studio\\ceiti visual prog\\lab2\\lab2\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|solutionrelative:first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|solutionrelative:first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|d:\\ms visual studio\\ceiti visual prog\\lab2\\lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|d:\\ms visual studio\\ceiti visual prog\\lab2\\lab2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|d:\\ms visual studio\\ceiti visual prog\\lab2\\lab2\\third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|solutionrelative:third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|d:\\ms visual studio\\ceiti visual prog\\lab2\\lab2\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|solutionrelative:second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|d:\\ms visual studio\\ceiti visual prog\\lab2\\lab2\\second.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|solutionrelative:second.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|d:\\ms visual studio\\ceiti visual prog\\lab2\\lab2\\first.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|solutionrelative:first.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|d:\\ms visual studio\\ceiti visual prog\\lab2\\lab2\\third.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|solutionrelative:third.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|solutionrelative:third.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7AB32CCC-ADCB-4B15-971D-73B4FFF53A5E}|Lab2.csproj|solutionrelative:second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Second.Designer.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Second.Designer.cs",
+              "RelativeDocumentMoniker": "Second.Designer.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Second.Designer.cs",
+              "RelativeToolTip": "Second.Designer.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAMwHYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:54:32.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "First.Designer.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\First.Designer.cs",
+              "RelativeDocumentMoniker": "First.Designer.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\First.Designer.cs",
+              "RelativeToolTip": "First.Designer.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAMwHYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:53:51.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Third.Designer.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Third.Designer.cs",
+              "RelativeDocumentMoniker": "Third.Designer.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Third.Designer.cs",
+              "RelativeToolTip": "Third.Designer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAMwHYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:52:42.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Third.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Third.cs",
+              "RelativeDocumentMoniker": "Third.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Third.cs",
+              "RelativeToolTip": "Third.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAIwHUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:34:18.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Third.cs [Design]",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Third.cs",
+              "RelativeDocumentMoniker": "Third.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Third.cs [Design]",
+              "RelativeToolTip": "Third.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:32:08.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "First.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\First.cs",
+              "RelativeDocumentMoniker": "First.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\First.cs*",
+              "RelativeToolTip": "First.cs*",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAIwFwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:14:22.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Second.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Second.cs",
+              "RelativeDocumentMoniker": "Second.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Second.cs",
+              "RelativeToolTip": "Second.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAowGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:13:17.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Second.cs [Design]",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Second.cs",
+              "RelativeDocumentMoniker": "Second.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Second.cs [Design]",
+              "RelativeToolTip": "Second.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:11:04.742Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "First.cs [Design]",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\First.cs",
+              "RelativeDocumentMoniker": "First.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\First.cs [Design]*",
+              "RelativeToolTip": "First.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T16:11:56.656Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAowE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:22:30.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\MS Visual Studio\\Ceiti Visual Prog\\Lab2\\Lab2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T06:11:17.384Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
