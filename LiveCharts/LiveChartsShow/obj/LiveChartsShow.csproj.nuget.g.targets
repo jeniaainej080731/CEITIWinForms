@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="$(NuGetPackageRoot)uno.winui\5.2.108\buildTransitive\net7.0-windows\uno.winui.targets" Condition="Exists('$(NuGetPackageRoot)uno.winui\5.2.108\buildTransitive\net7.0-windows\uno.winui.targets')" />
+    <Import Project="$(NuGetPackageRoot)skiasharp.nativeassets.webassembly\2.88.6\buildTransitive\netstandard1.0\SkiaSharp.NativeAssets.WebAssembly.targets" Condition="Exists('$(NuGetPackageRoot)skiasharp.nativeassets.webassembly\2.88.6\buildTransitive\netstandard1.0\SkiaSharp.NativeAssets.WebAssembly.targets')" />
+    <Import Project="$(NuGetPackageRoot)skiasharp.views.uno.winui\2.88.6\buildTransitive\net7.0\SkiaSharp.Views.Uno.WinUI.targets" Condition="Exists('$(NuGetPackageRoot)skiasharp.views.uno.winui\2.88.6\buildTransitive\net7.0\SkiaSharp.Views.Uno.WinUI.targets')" />
+  </ImportGroup>
+</Project>

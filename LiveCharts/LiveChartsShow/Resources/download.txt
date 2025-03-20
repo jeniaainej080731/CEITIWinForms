@@ -1,0 +1,1 @@
+NuGet\Install-Package LiveChartsCore.SkiaSharpView.WinForms -Version 2.0.0-rc5.4  -- установка пакета
