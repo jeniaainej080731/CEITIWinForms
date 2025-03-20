@@ -1,0 +1,10 @@
+Russia,Moscow,146000000,Federation,../../Resources/flags/russia.png
+France,Paris,67000000,Republic,../../Resources/flags/france.png
+USA,Washington D.C.,331000000,Republic,../../Resources/flags/usa.png
+Germany,Berlin,83000000,Republic,../../Resources/flags/germany.png
+Italy,Rome,60000000,Republic,../../Resources/flags/italy.png
+Spain,Madrid,47000000,Monarchy,../../Resources/flags/spain.png
+Japan,Tokyo,125000000,Constitutional Monarchy,../../Resources/flags/japan.png
+Canada,Ottawa,38000000,Federation,../../Resources/flags/canada.png
+India,New Delhi,1380000000,Republic,../../Resources/flags/india.png
+Brazil,Brasília,213000000,Republic,../../Resources/flags/brazil.png
