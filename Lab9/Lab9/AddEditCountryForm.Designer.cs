@@ -89,6 +89,7 @@
             FlagPathTxtBox.Name = "FlagPathTxtBox";
             FlagPathTxtBox.PlaceholderText = "Path to Flag image";
             FlagPathTxtBox.ReadOnly = true;
+            FlagPathTxtBox.ScrollBars = ScrollBars.Horizontal;
             FlagPathTxtBox.Size = new Size(228, 32);
             FlagPathTxtBox.TabIndex = 4;
             // 
@@ -149,7 +150,7 @@
             OKBtn.ImageExpand = new Point(0, 0);
             OKBtn.ImageOffset = new Point(0, 0);
             OKBtn.ImageTint = Color.White;
-            OKBtn.Location = new Point(134, 396);
+            OKBtn.Location = new Point(152, 396);
             OKBtn.Name = "OKBtn";
             OKBtn.NormalBackground = Color.FromArgb(255, 106, 0);
             OKBtn.NormalOutline = Color.Empty;
@@ -185,7 +186,7 @@
             CancelBtn.ImageExpand = new Point(0, 0);
             CancelBtn.ImageOffset = new Point(0, 0);
             CancelBtn.ImageTint = Color.White;
-            CancelBtn.Location = new Point(12, 396);
+            CancelBtn.Location = new Point(30, 396);
             CancelBtn.Name = "CancelBtn";
             CancelBtn.NormalBackground = Color.FromArgb(255, 106, 0);
             CancelBtn.NormalOutline = Color.Empty;

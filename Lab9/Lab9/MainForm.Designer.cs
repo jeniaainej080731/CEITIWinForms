@@ -54,6 +54,8 @@
             // 
             // dataGridView1
             // 
+            dataGridView1.AllowUserToAddRows = false;
+            dataGridView1.AllowUserToDeleteRows = false;
             dataGridView1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             dataGridView1.Location = new Point(5, 31);
@@ -96,7 +98,8 @@
             // 
             openToolStripMenuItem.ForeColor = Color.White;
             openToolStripMenuItem.Name = "openToolStripMenuItem";
-            openToolStripMenuItem.Size = new Size(128, 26);
+            openToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.O;
+            openToolStripMenuItem.Size = new Size(181, 26);
             openToolStripMenuItem.Text = "Open";
             openToolStripMenuItem.Click += openToolStripMenuItem_Click;
             // 
@@ -104,7 +107,8 @@
             // 
             saveToolStripMenuItem.ForeColor = Color.White;
             saveToolStripMenuItem.Name = "saveToolStripMenuItem";
-            saveToolStripMenuItem.Size = new Size(128, 26);
+            saveToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.S;
+            saveToolStripMenuItem.Size = new Size(181, 26);
             saveToolStripMenuItem.Text = "Save";
             saveToolStripMenuItem.Click += saveToolStripMenuItem_Click;
             // 
@@ -120,7 +124,8 @@
             // 
             addToolStripMenuItem.ForeColor = Color.White;
             addToolStripMenuItem.Name = "addToolStripMenuItem";
-            addToolStripMenuItem.Size = new Size(141, 26);
+            addToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.A;
+            addToolStripMenuItem.Size = new Size(218, 26);
             addToolStripMenuItem.Text = "Add";
             addToolStripMenuItem.Click += addToolStripMenuItem_Click;
             // 
@@ -128,7 +133,8 @@
             // 
             updateToolStripMenuItem.ForeColor = Color.White;
             updateToolStripMenuItem.Name = "updateToolStripMenuItem";
-            updateToolStripMenuItem.Size = new Size(141, 26);
+            updateToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.U;
+            updateToolStripMenuItem.Size = new Size(218, 26);
             updateToolStripMenuItem.Text = "Update";
             updateToolStripMenuItem.Click += updateToolStripMenuItem_Click;
             // 
@@ -136,7 +142,8 @@
             // 
             deleteToolStripMenuItem.ForeColor = Color.White;
             deleteToolStripMenuItem.Name = "deleteToolStripMenuItem";
-            deleteToolStripMenuItem.Size = new Size(141, 26);
+            deleteToolStripMenuItem.ShortcutKeys = Keys.Control | Keys.Alt | Keys.D;
+            deleteToolStripMenuItem.Size = new Size(218, 26);
             deleteToolStripMenuItem.Text = "Delete";
             deleteToolStripMenuItem.Click += deleteToolStripMenuItem_Click;
             // 
@@ -144,6 +151,7 @@
             // 
             showDiagramToolStripMenuItem.ForeColor = Color.White;
             showDiagramToolStripMenuItem.Name = "showDiagramToolStripMenuItem";
+            showDiagramToolStripMenuItem.ShortcutKeys = Keys.Alt | Keys.Shift | Keys.C;
             showDiagramToolStripMenuItem.Size = new Size(121, 24);
             showDiagramToolStripMenuItem.Text = "Show Diagram";
             showDiagramToolStripMenuItem.Click += showDiagramToolStripMenuItem_Click;

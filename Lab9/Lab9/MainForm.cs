@@ -15,7 +15,7 @@ namespace Lab9
         [System.ComponentModel.Browsable(false)]
         public System.Windows.Forms.AutoScaleMode AutoScaleMode { get; set; }
 
-        private bool flag = false;
+        private Dictionary<string, Image> flagCache = new Dictionary<string, Image>();
         public MainForm()
         {
             InitializeComponent();
@@ -54,10 +54,8 @@ namespace Lab9
             };
         }
 
-
         private void InitDataGridView()
         {
-            dataGridView1.VirtualMode = true;
             dataGridView1.EnableHeadersVisualStyles = false;
             dataGridView1.AutoSizeColumnsMode = DataGridViewAutoSizeColumnsMode.Fill;
             dataGridView1.AutoGenerateColumns = false;
@@ -100,30 +98,27 @@ namespace Lab9
 
             dataGridView1.Columns.Add(flagColumn);
 
-            dataGridView1.DefaultCellStyle.Font = new System.Drawing.Font("Arial",
-                14, System.Drawing.FontStyle.Bold);
-            dataGridView1.ColumnHeadersDefaultCellStyle.Font = new
-                System.Drawing.Font("Arial", 14, System.Drawing.FontStyle.Bold);
-            dataGridView1.RowHeadersDefaultCellStyle.Font = new
-                System.Drawing.Font("Arial", 14, System.Drawing.FontStyle.Bold);
-            dataGridView1.ColumnHeadersDefaultCellStyle.Alignment =
-                DataGridViewContentAlignment.TopCenter;
-            dataGridView1.ColumnHeadersDefaultCellStyle.BackColor =
-                Color.Aquamarine;
-            dataGridView1.ColumnHeadersDefaultCellStyle.ForeColor = Color.Gray;
-            dataGridView1.ColumnHeadersDefaultCellStyle.SelectionBackColor =
-                Color.Firebrick;
-            dataGridView1.ColumnHeadersDefaultCellStyle.SelectionForeColor =
-                Color.White;
+            // Стили ячеек
+            dataGridView1.DefaultCellStyle.Font = new System.Drawing.Font("Arial", 12); // Уменьшен размер, убрано Bold
+            dataGridView1.DefaultCellStyle.BackColor = Color.WhiteSmoke; // Светлый фон
+            dataGridView1.DefaultCellStyle.ForeColor = Color.Black; // Чёрный текст для читаемости
+            dataGridView1.DefaultCellStyle.SelectionBackColor = Color.LightBlue; // Мягкий цвет выделения
+            dataGridView1.DefaultCellStyle.SelectionForeColor = Color.Black;
 
-            dataGridView1.RowHeadersDefaultCellStyle.Alignment =
-                DataGridViewContentAlignment.MiddleRight;
-            dataGridView1.RowHeadersDefaultCellStyle.BackColor = Color.Wheat;
-            dataGridView1.RowHeadersDefaultCellStyle.ForeColor = Color.Olive;
-            dataGridView1.RowHeadersDefaultCellStyle.SelectionBackColor =
-                Color.Orange;
-            dataGridView1.RowHeadersDefaultCellStyle.SelectionForeColor =
-                Color.SaddleBrown;
+            // Стили заголовков столбцов
+            dataGridView1.ColumnHeadersDefaultCellStyle.Font = new System.Drawing.Font("Arial", 12, System.Drawing.FontStyle.Bold);
+            dataGridView1.ColumnHeadersDefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+            dataGridView1.ColumnHeadersDefaultCellStyle.BackColor = Color.LightSeaGreen; // Более мягкий цвет
+            dataGridView1.ColumnHeadersDefaultCellStyle.ForeColor = Color.White; // Белый текст для контраста
+            dataGridView1.ColumnHeadersHeight = 40; // Фиксированная высота заголовков
+
+            // Стили заголовков строк (номеров)
+            dataGridView1.RowHeadersDefaultCellStyle.Font = new System.Drawing.Font("Arial", 12, System.Drawing.FontStyle.Bold);
+            dataGridView1.RowHeadersDefaultCellStyle.Alignment = DataGridViewContentAlignment.MiddleCenter;
+            dataGridView1.RowHeadersDefaultCellStyle.BackColor = Color.LightGray; // Нейтральный фон
+            dataGridView1.RowHeadersDefaultCellStyle.ForeColor = Color.DarkSlateGray; // Тёмный текст
+            dataGridView1.RowHeadersDefaultCellStyle.SelectionBackColor = Color.Silver; // Цвет выделения
+            dataGridView1.RowHeadersDefaultCellStyle.SelectionForeColor = Color.Black;
 
             // Масштабирование
             dataGridView1.Columns[0].MinimumWidth = 100;
@@ -131,6 +126,9 @@ namespace Lab9
             dataGridView1.Columns[2].MinimumWidth = 80;
             dataGridView1.Columns[3].MinimumWidth = 100;
             dataGridView1.Columns[4].MinimumWidth = 50;
+
+            dataGridView1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom |
+                AnchorStyles.Left | AnchorStyles.Right;
         }
 
         private void UpdateStatistics()
@@ -170,14 +168,15 @@ namespace Lab9
                 {
                     if (dataGridView1.Columns[e.ColumnIndex] is DataGridViewImageColumn)
                     {
-                        try
+                        if (!string.IsNullOrEmpty(country.FlagPath) && File.Exists(country.FlagPath))
                         {
-                            if (!string.IsNullOrEmpty(country.FlagPath) && File.Exists(country.FlagPath))
-                                e.Value = Image.FromFile(country.FlagPath);
-                            else
-                                e.Value = null;
+                            if (!flagCache.ContainsKey(country.FlagPath))
+                            {
+                                flagCache[country.FlagPath] = Image.FromFile(country.FlagPath);
+                            }
+                            e.Value = flagCache[country.FlagPath];
                         }
-                        catch
+                        else
                         {
                             e.Value = null;
                         }
@@ -240,7 +239,6 @@ namespace Lab9
                         var lines = countries.Select(c => $"{c.Name},{c.Capital},{c.Population},{c.GovernmentType},{c.FlagPath}");
                         File.WriteAllLines(dialog.FileName, lines);
                         MessageBox.Show("Данные сохранены.");
-                        flag = true;
                     }
                     catch (Exception ex)
                     {
@@ -351,19 +349,6 @@ namespace Lab9
         {
             DiagramForm diagramForm = new DiagramForm(countries);
             diagramForm.Show();
-        }
-
-        private void dataGridView1_CellMouseClick(object sender, DataGridViewCellMouseEventArgs e)
-        {
-            if (e.RowIndex >= 0 && dataGridView1.Columns[e.ColumnIndex] is DataGridViewImageColumn)
-            {
-                var country = (Country)dataGridView1.Rows[e.RowIndex].DataBoundItem;
-                if (country != null && !string.IsNullOrEmpty(country.FlagPath) && File.Exists(country.FlagPath))
-                {
-                    FlagForm flagForm = new FlagForm(country.FlagPath);
-                    flagForm.Show();
-                }
-            }
         }
 
         private void dataGridView1_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
